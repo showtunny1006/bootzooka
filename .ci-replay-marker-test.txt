@@ -1,0 +1,3 @@
+# CI replay marker for test/ct
+feature_branch: replay-f23c0b67
+workflow: .github/workflows/bootzooka-helm-ci.yaml
